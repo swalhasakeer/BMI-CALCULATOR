@@ -4,3 +4,7 @@ A simple web application built with Streamlit that calculates your Body Mass Ind
 # Here is my app
 
 https://bmi-calculator-ze8vnxbm4ak82wjmwp3hoz.streamlit.app/
+
+
+![image](https://github.com/user-attachments/assets/88c49e5d-b28a-4457-8b6d-d881529d0b47)
+
