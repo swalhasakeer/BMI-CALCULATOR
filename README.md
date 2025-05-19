@@ -6,5 +6,6 @@ A simple web application built with Streamlit that calculates your Body Mass Ind
 https://bmi-calculator-ze8vnxbm4ak82wjmwp3hoz.streamlit.app/
 
 
-![image](https://github.com/user-attachments/assets/88c49e5d-b28a-4457-8b6d-d881529d0b47)
+![image](https://github.com/user-attachments/assets/297a0016-0121-4a6d-b8f5-c9b9a3202cf3)
+
 
